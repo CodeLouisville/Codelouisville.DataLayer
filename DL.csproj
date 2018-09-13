@@ -1,7 +1,15 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
+  
+    <PackageId>kevcoder.CodeLouisville.DataLayer</PackageId>
+    <Version>1.0.0</Version>
+    <Authors>kevcoder</Authors>
+    <Company>kevcoder</Company>
+
     <TargetFramework>netstandard2.0</TargetFramework>
+    <AssemblyName>kevcoder.CodeLouisville.DataLayer</AssemblyName>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
   </PropertyGroup>
 
   <ItemGroup>
